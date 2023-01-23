@@ -1,2 +1,1 @@
-# sorting_algorithms
-Algorithms project
+sorting algorithm
